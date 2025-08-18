@@ -1,0 +1,32 @@
+#container{
+    width: 560px;
+    margin: 50px auto;
+    
+  
+}
+
+h6{
+    display:inline;
+    padding: 50px 230px 0px 50px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 14;
+    font-family: helvetica, Arial, Georgia;
+}
+
+#box{
+    background-color:darkgrey;
+    padding: 10px;
+    margin:10px;
+    font-family: helvetica, Arial, Georgia;
+}
+
+#imagebox{
+    background-image: url(image2.jpg);
+    padding: 10px;
+    margin:10px;
+    font-family: helvetica, Arial, Georgia;
+    color: white;
+}
+
+
